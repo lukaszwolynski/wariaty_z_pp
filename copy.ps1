@@ -1,0 +1,1 @@
+ scp -i C:\Users\lukas\Desktop\AWS_key.pem -r $(pwd) ubuntu@3.72.232.51:/home/ubuntu 
